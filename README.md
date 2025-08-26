@@ -22,7 +22,7 @@ docker run \
       - files:
           - /prometheus/nodes.yml
    ```
-
+![config file to be modified](prometheus.png)
 Node list with  in nodes.yml
 
 ```
