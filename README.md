@@ -33,4 +33,4 @@ Node list with  in nodes.yml
 
 
 ## Result 
-[Screenshit](Screenshot.png)
+![Screenshot](Screenshot.png)
