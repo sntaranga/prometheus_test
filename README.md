@@ -34,3 +34,10 @@ Node list with  in nodes.yml
 
 ## Result 
 ![Screenshot](Screenshot.png)
+
+## Diagnosis
+
+tcpdump on the target server to see whether Prometheus is polling your target.
+```
+tcpdump -ni any port 9100
+```
