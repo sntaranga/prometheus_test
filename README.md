@@ -43,3 +43,9 @@ tcpdump -ni any port 9100
 # get containder details
 docker inspect <containder id>
 ```
+
+Integrate grafana with prometheus
+Go to  Connections -> Datasources
+
+Set Connection to premethius 
+
