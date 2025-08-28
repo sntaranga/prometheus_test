@@ -40,4 +40,6 @@ Node list with  in nodes.yml
 tcpdump on the target server to see whether Prometheus is polling your target.
 ```
 tcpdump -ni any port 9100
+# get containder details
+docker inspect <containder id>
 ```
