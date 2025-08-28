@@ -1,4 +1,4 @@
-# Simple steps to implement prometheus and graphana
+# Simple steps to implement Prometheus and Grafana
 
 1. Run metric exporter in the target server ( Docker container )
 ```
